@@ -31,6 +31,7 @@ const server = Bun.serve({
         // Set the content type for the response set correct header based on type you set above
         const headers = new Headers()
         headers.append("Content-Type", "image/png")
+        headers.append("Access-Control-Allow-Origin", "*")
 
         // Send the screenshot as a response
         return new Response(buffer, { headers })
