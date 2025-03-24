@@ -31,9 +31,9 @@ Clone repo and install dependencies
 
 ```
 git clone https://github.com/screenshotbuddy/bun-puppeteer-screenshot-server.git
-cd express-puppeteer-screenshot-server
-npm install
-npm run dev
+cd bun-puppeteer-screenshot-server
+bun install
+bun run dev
 ```
 
 ## Test Server
