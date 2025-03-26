@@ -22,7 +22,7 @@ wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add
 ## Install Bun
 
 ```
-npm i bun -g
+curl -fsSL https://bun.sh/install | bash
 ```
 
 ## Get Started
