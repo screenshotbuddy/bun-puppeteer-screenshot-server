@@ -41,3 +41,8 @@ bun run dev
 ```
 http://localhost:3000/screenshot?url=https://www.wikipedia.org/
 ```
+
+## Homepage
+
+
+![screenshotbuddy.com home page](https://api.screenshotbuddy.com/render/waatbjcdv529xl86oq0373v3aenduecc?url=https%3A%2F%2Fwww.screenshotbuddy.com%2F&format=png&viewport=1366x1366&hide_banners=true&signature=1ce0cdf344dd8513f4e557d1a561271c4d53548c6260a708542968bd20ea19d8)
